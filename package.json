@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-printer",
+  "name": "@maheshmestri/cordova-plugin-printer",
   "version": "0.8.0",
   "description": "Prints HTML documents",
   "cordova": {
